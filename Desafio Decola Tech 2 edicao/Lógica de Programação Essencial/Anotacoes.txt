@@ -1,0 +1,10 @@
+Lógica de Programação Essencial
+
+Lógica = "coêrencia de Raciocionio"
+Lógica de Programação = "melhor sequencia de ações para resolver um probema"
+
+**Metacognição = "Pensar como você pensa"
+**Abstração = "Habilidade de concentrar nos aspectos essencias de um contexto qualque"
+
+
+****Em desenvolvimento
