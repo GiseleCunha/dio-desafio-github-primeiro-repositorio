@@ -7,4 +7,4 @@ Lógica de Programação = "melhor sequencia de ações para resolver um probema
 **Abstração = "Habilidade de concentrar nos aspectos essencias de um contexto qualque"
 
 
-****Em desenvolvimento
+

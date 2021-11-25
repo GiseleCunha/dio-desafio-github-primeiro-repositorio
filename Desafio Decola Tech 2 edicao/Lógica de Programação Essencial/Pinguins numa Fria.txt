@@ -1,0 +1,23 @@
+INICIO DO JOGO
+Pinguim filhote Azul sobe no Iceberg
+Pinguim Pai Azul sobe no Iceberg
+Atravessa
+Pinguim Pai azul desce do Iceberg
+Atravessa
+Pinguim filhote verde sobe
+Atravessa
+Pinguim filhote azul desce
+Atravessa
+Pinguim pai verde sobe
+Atravessa
+Pinguim  pai verde desce
+Atravessa
+Pinguim filhote vermelho sobe
+Atravessa
+Pinguim filhote verde desce
+Atravessa
+Pinguim Pai vermellho sobe
+Atravessa
+Pinguim  Pai vermelho desce
+Pinguim filhote vermelho desce
+FIM DO JOGO

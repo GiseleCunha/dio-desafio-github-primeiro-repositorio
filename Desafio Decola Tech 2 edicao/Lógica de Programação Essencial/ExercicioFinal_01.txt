@@ -1,0 +1,25 @@
+INÍCIO-dia
+	Acordei
+	Levantei da cama
+	Escovei os dentes
+	Troquei de roupa
+	Preparei o café
+	Tomei café
+	Escovei os dentes
+	Fui ao trabalho
+	Realizei as tarefas do dia
+	Retornei para casa
+	Retirei roupa
+	Tomei banho
+	Me sequei
+	Coloquei pijama
+	Preparei café
+                  Tomei café
+	Escovei o dente
+	Liguei o computador
+	Assisti aula remota
+	Realizei tarefas
+	Desliguei o computador
+	Deitei
+	Dormi	
+FIM-dia
