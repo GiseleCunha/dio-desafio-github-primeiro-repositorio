@@ -1,0 +1,13 @@
+INÍCIO
+DECLARA nota1: número
+DECLARA nota2: número
+DECLARA nota3: número
+DECLARA nota4: número
+DECLARA media: número
+LEIA( nota1 )
+LEIA(nota2 )
+LEIA(nota3 )
+LEIA(nota4 )
+media=(nota1+nota2+nota3+nota4)/4
+IMPRIMIR(media )
+FIM

@@ -1,0 +1,1 @@
+CONCATENAÇÃO = "Unir a sequencia de duas strings"

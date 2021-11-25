@@ -1,0 +1,40 @@
+<?xml version="1.0"?>
+<flowgorithm fileversion="2.11">
+    <attributes>
+        <attribute name="name" value=""/>
+        <attribute name="authors" value="gisel"/>
+        <attribute name="about" value=""/>
+        <attribute name="saved" value="2021-11-25 12:24:18 "/>
+        <attribute name="created" value="Z2lzZWw7TEFQVE9QLUFWMU1MMDlCOzIwMjEtMTEtMjQ7IjEwOjQ2OjQzICI7Mjc1MQ=="/>
+        <attribute name="edited" value="Z2lzZWw7TEFQVE9QLUFWMU1MMDlCOzIwMjEtMTEtMjU7IjEyOjI0OjE4ICI7MzsyODYy"/>
+    </attributes>
+    <function name="Main" type="None" variable="">
+        <parameters/>
+        <body>
+            <declare name="nota1, nota2, nota3, nota4, total, media" type="Real" array="False" size=""/>
+            <declare name="nome" type="String" array="False" size=""/>
+            <output expression="&quot;Digite Seu nome: &quot;" newline="True"/>
+            <input variable="nome"/>
+            <output expression="&quot;Digite a nota 1:&quot;" newline="True"/>
+            <input variable="nota1"/>
+            <output expression="&quot;Digite a nota 2:&quot;" newline="True"/>
+            <input variable="nota2"/>
+            <output expression="&quot;Digite a nota 3:&quot;" newline="True"/>
+            <input variable="nota3"/>
+            <output expression="&quot;Digite a nota 4:&quot;" newline="True"/>
+            <input variable="nota4"/>
+            <assign variable="total" expression="(nota1+nota2+nota3+nota4)"/>
+            <assign variable="media" expression="(total/4)"/>
+            <output expression="&quot;Aluno: &quot; &amp; nome &amp; &quot; a soma das sua notas &#233;: &quot;&amp; total" newline="True"/>
+            <output expression="&quot;Aluno: &quot; &amp; nome &amp; &quot; a m&#233;dia das sua notas &#233;: &quot;&amp; media" newline="True"/>
+            <if expression="media&gt;=7">
+                <then>
+                    <output expression="&quot;Parab&#233;ns &quot; &amp; nome &amp; &quot;  voc&#234; foi aprovado(a)!&quot;" newline="True"/>
+                </then>
+                <else>
+                    <output expression="&quot;Infelizmente &quot; &amp; nome &amp; &quot; voc&#234; foi reprovado(a)&quot;" newline="True"/>
+                </else>
+            </if>
+        </body>
+    </function>
+</flowgorithm>

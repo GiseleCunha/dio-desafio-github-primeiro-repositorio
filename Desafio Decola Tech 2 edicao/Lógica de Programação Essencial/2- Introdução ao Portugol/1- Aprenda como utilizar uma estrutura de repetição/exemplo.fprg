@@ -1,0 +1,23 @@
+<?xml version="1.0"?>
+<flowgorithm fileversion="2.11">
+    <attributes>
+        <attribute name="name" value=""/>
+        <attribute name="authors" value="gisel"/>
+        <attribute name="about" value=""/>
+        <attribute name="saved" value="2021-11-25 12:28:44 "/>
+        <attribute name="created" value="Z2lzZWw7TEFQVE9QLUFWMU1MMDlCOzIwMjEtMTEtMjU7IjEyOjI0OjQwICI7Mjc0Nw=="/>
+        <attribute name="edited" value="Z2lzZWw7TEFQVE9QLUFWMU1MMDlCOzIwMjEtMTEtMjU7IjEyOjI4OjQ0ICI7MTsyODYz"/>
+    </attributes>
+    <function name="Main" type="None" variable="">
+        <parameters/>
+        <body>
+            <declare name="numero, limite" type="Integer" array="False" size=""/>
+            <assign variable="numero" expression="0"/>
+            <assign variable="limite" expression="20"/>
+            <while expression="numero&lt;=limite">
+                <output expression="&quot;Contagemm atual:&quot; &amp; numero" newline="True"/>
+                <assign variable="numero" expression="numero+2"/>
+            </while>
+        </body>
+    </function>
+</flowgorithm>
